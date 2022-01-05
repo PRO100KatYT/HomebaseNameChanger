@@ -4,9 +4,8 @@ This program allows you to change the Homebase name in Fortnite: Save the World.
 
 ---
 ### Changelog:
-What's new in the 1.1.0 update:
-- The program is now able to automatically open webpages for the auth code.
-- Added another link to get the auth token if you're already logged in your browser.
+What's new in the 1.2.0 update:
+- The program's performance is significantly better.
 - Tweaked the program's code a little bit.
 ---
 
